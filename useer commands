@@ -1,0 +1,42 @@
+   Bhargav: cat /etc/passwd | grep username
+   Bhargav: to see a particular user
+   Bhargav: details
+   Bhargav: useradd -d /opt/
+   Bhargav: useradd -d /opt/name user name
+   Bhargav: useradd -d /opt/cloud -u 1099 kappa
+   Bhargav: cat /etc/group
+   id 2213
+   useradd bio
+   useradd -g bio
+   cat /etc/group
+   id 2213
+   cat /etc/group
+   useradd bio
+   id 2213
+   id 1099
+   cat /etc/passwd
+   usermod -a -G zoro,bae,lol,kappa,hola,lauda,pl
+   usermod -a -G zoro,bae,lol,kappa,hola,lauda,pl bio
+   ll
+   usermod -a -G zoro,bae,lol,kappa,hola,lauda,pl bio
+   usermod -a -G zoro,bae,lol,kappa,bio bio
+   usermod -a -G zoro,bae,lol,kappa,hola bio
+   id 2213
+   ll
+   cd ..
+   cd home
+   ll
+   groupadd ko
+   cat /etc/passwd
+   useradd -u 2005 -g ko last
+   useradd -u 2005 -g ko op
+   cat /etc/passwd
+   cat /etc/group
+   id 2216
+   cat /etc/passwd
+   usermod -a -G zoro,bae,lol,kappa ko
+   useradd ko
+   usermod -a -G zoro,bae,lol,kappa ko
+   useradd -g ko
+   usermod -a -G zoro,bae,lol,kappa ko
+   history
