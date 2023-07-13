@@ -40,3 +40,5 @@
    useradd -g ko
    usermod -a -G zoro,bae,lol,kappa ko
    history
+   useradd -u id -g group user 
+   
