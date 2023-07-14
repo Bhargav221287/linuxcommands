@@ -1,0 +1,9 @@
+bash => BORN AGAINST SHELL
+ useradd -c "comment" username
+ useradd -e expire dd/mm/yyyy -f 10 username
+chage -l username
+ useradd -g id username
+ useradd -s /path username
+ useradd -m -d /path -s /bin/bash -c "comment" -U username
+userdel username
+ useradd -M -N -r -s /bin/false -c "I AM NO GOD" gain
