@@ -5,3 +5,4 @@ vim /etc/fstab
 free -h
 free -g
 vpn => virtual private network
+ssh ip address => to login in to another server
