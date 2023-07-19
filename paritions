@@ -1,0 +1,7 @@
+mkfs.ext4 /dev/nvme0p
+vim /etc/fstab
+/dev/nvme0n2p5 /opt/bhargav-g
+/dev/nvme0n2p5 /opt/bhargav-g   ext4    defaults        0       0
+free -h
+free -g
+vpn => virtual private network
