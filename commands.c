@@ -12,5 +12,9 @@ cat
 vim 
 gcc
 ./
-
-
+ rpm -ivh }}}}}}}}}
+yum install -y }}}}           both are used to install packages
+yum list --installed
+  yum list dnf
+yum list
+yum list available
